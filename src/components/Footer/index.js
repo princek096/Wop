@@ -51,25 +51,25 @@ const Footer = () => {
             <SocialMedia>
                 <SocialMediaWrap>
                     <SocialLogo to='/' onClick={toggleHome}>
-                        Krypt
+                        WOP
                     </SocialLogo>
-                    <WebsiteRights>dolla © {new Date ().getFullYear()}
+                    <WebsiteRights>WOP © {new Date ().getFullYear()}
                      All rights reserved.</WebsiteRights>
                     <SocialIcons>
-                        <SocialIconLink href="/" target="_blamk" aria-label="Facebook">
-                            <FaFacebook/>
-                        </SocialIconLink>
-                        <SocialIconLink href="/" target="_blamk" aria-label="Instagram">
+                        <SocialIconLink href="https://www.instagram.com/worldofpersona.nft/" target="_blamk" aria-label="Instagram">
                             <FaInstagram/>
-                        </SocialIconLink>
-                        <SocialIconLink href="/" target="_blamk" aria-label="Youtube">
-                            <FaYoutube/>
                         </SocialIconLink>
                         <SocialIconLink href="/" target="_blamk" aria-label="Twitter">
                             <FaTwitter/>
                         </SocialIconLink>
                         <SocialIconLink href="/" target="_blamk" aria-label="Linkedin">
                             <FaLinkedin/>
+                        </SocialIconLink>
+                        <SocialIconLink href="/" target="_blamk" aria-label="Facebook">
+                            <FaFacebook/>
+                        </SocialIconLink>
+                        <SocialIconLink href="/" target="_blamk" aria-label="Youtube">
+                            <FaYoutube/>
                         </SocialIconLink>
                     </SocialIcons>
                 </SocialMediaWrap>

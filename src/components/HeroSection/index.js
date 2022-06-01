@@ -26,11 +26,9 @@ const HeroSection = () => {
             <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
         </HeroBg>
         <HeroContent>
-          <HeroH1>Virtual Banking Made Easy</HeroH1>
+          <HeroH1>NFT's of your PERSONA</HeroH1>
           <HeroP>
-            Sign up for a new account today and receive $100 in 
-            credit towards your 
-            next payment.
+            Get WOP NFT's from 1st September 2022 SignUp early to get free airdrops.
           </HeroP>
           <HeroBtnWrapper>
             <Button to='signup' onMouseEnter={onHover} onMouseLeave={onHover}

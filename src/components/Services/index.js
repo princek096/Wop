@@ -10,18 +10,18 @@ const Services = () => {
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src={Icon1}/>
-                    <ServicesH2>Reduce expenses</ServicesH2>
-                    <ServicesP>We help reduce your fees and increase your overall revenue.</ServicesP>
+                    <ServicesH2>Education</ServicesH2>
+                    <ServicesP>We help people to understand their persona better through workshops by experts in metaverse.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon2}/>
-                    <ServicesH2>Virtual Offices</ServicesH2>
-                    <ServicesP>You can access our platform online anywhere in the world.</ServicesP>
+                    <ServicesH2>Virtual Parties</ServicesH2>
+                    <ServicesP>Come and Join together at weekend with people who thinks like you.</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon3}/>
                     <ServicesH2>Premium Benefits</ServicesH2>
-                    <ServicesP>Unlock our special membership card that returns 5% cash back.</ServicesP>
+                    <ServicesP>Buy our NFT and get into our premium discord channel and have access to chat with people of your persona</ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
